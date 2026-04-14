@@ -1,0 +1,25 @@
+{
+  "name": "seg1-w07-a",
+  "version": "1.0.0",
+  "description": "",
+  "source": "source/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel build source/index.html --dist-dir dist --public-url / --no-cache"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevOps-SEG1-S26/seg1-w07-a.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/DevOps-SEG1-S26/seg1-w07-a/issues"
+  },
+  "homepage": "https://github.com/DevOps-SEG1-S26/seg1-w07-a#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
